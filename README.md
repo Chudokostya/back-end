@@ -7,4 +7,4 @@ ___
 студент групи ІВ-92 Чудаков Костянтин.
 
 
-Доповідь знаходиться [тут](https://github.com/Chudokostya/Work_With_Data/blob/main/moment/doc/moment.md).
+Доповідь знаходиться [тут](https://github.com/Chudokostya/back-end/blob/main/moment/doc/moment.md).
